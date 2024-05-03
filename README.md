@@ -64,5 +64,5 @@ While the authentication system is functional, there are always areas for improv
 
 ## Contributions
 
-If you have suggestions for improvements or would like to report an issue, please feel free to open an issue or submit a pull request. Your contributions are valuable to us!
+If you have suggestions for improvements or would like to report an issue, please feel free to open an issue or submit a pull request. Your contributions are valuable!
 
